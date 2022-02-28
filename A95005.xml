@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a message sent to General Monck from severall officers of the Army, October twenty nine, 1659</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95005</idno>
+            <idno type="STC">Wing T2626</idno>
+            <idno type="STC">Thomason 669.f.22[1]</idno>
+            <idno type="STC">ESTC R211313</idno>
+            <idno type="EEBO-CITATION">99870043</idno>
+            <idno type="PROQUEST">99870043</idno>
+            <idno type="VID">163583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163583)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a message sent to General Monck from severall officers of the Army, October twenty nine, 1659</title>
+                  <author>Lambert, John, 1619-1683.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Lambert [and 20 others].</note>
+                  <note>Concerning Monck's and the Army's dissatisfactions with the undersigned officers "on mistaken grounds".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Thomason copy imperfect; staining with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:163583:1" rendition="simple:additions"/>
+            <head>A TRVE
+COPY of a MESSAGE
+SENT TO
+GENERAL MONCK
+FROM
+Severall Officers of the Army, October twenty nine, 1659.</head>
+            <opener>
+               <salute>Dear Brethren and Fellow-Souldiers,</salute>
+            </opener>
+            <p>WEE moſt heartily wiſh Grace and Truth to be multiplyed to you, through the knowledge of God, and of Jeſus our Lord;
+and alſo we deſire the God and Father of all Grace, to and to your Faith, Vertue; and to Vertue Knowledge, and to
+Knowledge, Temperance; and to Temperance, Godlineſs; and to Godlineſs, Brotherly-kindneſs; and to Brotherly-kindneſs,
+Charity.</p>
+            <p>Dear Brethren, We cannot but be deeply affected, and afflicted in our own ſpirits, to conſider of your dis-ſatisfactions with us, up<g ref="char:EOLhyphen"/>on
+miſtaken grounds; You have known us theſe many years, to be your faithful Brethren, that durſt do nothing that is ſinful, and we
+may affirm with plainneſs, honeſty, and ſimplicity of heart, we have done nothing in the late Revolution, bnt that which the provi<g ref="char:EOLhyphen"/>dence
+of the moſt wiſe God prepared to our hands, and led us out to, without ſo much as one half hours time to deſign, or reſolve, to
+take take that courſe we are neceſſitated unto: ſince which, moſt of ſuch perſons that were not clear in the preſenr, and ſuddain acti<g ref="char:EOLhyphen"/>on,
+have made their acknowledgment of their full ſatisfaction, and were mutually reconciled; and they are received and tendered by
+us affectionate Brethren. And for a more full Narrative of the providential grounds and gradual ſteps that led us to the Work, (yet
+with aking hearts) and as anſwer to your Queries, ſigned in your name by <hi>VVilliam Clark</hi> Secretary, bearing date the 22 inſtant, We
+refer you to a Book, entituled, <hi>The Armies Plea,</hi> and alſo, <hi>The Armies Declaration;</hi> relation thereto being had, we hope will give
+you ſatisfaction.</p>
+            <p>Loving Brethren, What have we done, that you are offended? we are not conſcious, that any thing is acted by us, upon the pub<g ref="char:EOLhyphen"/>lick
+Theater; but that which we judge, is acceptable to God, and that we have done hath proceeded from uprightneſs of heart, and
+for the glory of God, the good of his Intereſt, Cauſe, and People in theſe Nations; nothing leſſe then theſe worthy Ends could have
+cauſed us to adventure our All that is dear to us, for yours and their ſakes, and after ſuch a hazard, our brethren to look ſhie, upon
+us, yea ſuch, with whom we have lived and converſed together, prayed, fought, and jeoparded our lives together, and witneſſes toge<g ref="char:EOLhyphen"/>ther
+of the glory of the moſt high God in the high places of the fields; yea, we that are of one ſociety, of one Family and Houſhold,
+(that none hitherto, through the grace of God, could diſ-unite us) now to be at a diſtance with us, is the greateſt wound to us, which
+is unexpreſſable. If it had been from our enemies, we could have born it. Oh! but they are the wounds of the houſe of our friends,
+and all this ariſing, without firſt dealing brotherly with us, and without ſo much as ſending to know the providential grounds that led
+us to theſe undertakings, And likewiſe your and our unhappyneſs hath been, poſſibly by miſ-informations received by thoſe, who have
+correſponded with the principal occaſioners of this breach here.</p>
+            <p>However, We are cenſured by you, we ſhall, we hope, carry it Chriſtianly and brotherly towards you, and exerciſe our ſelves in the
+doctrine of our Saviour. If any be overraken in a fault, reſtore ſuch a one with the ſpirit of meekneſs, knowing alſo we are ſubject to
+like temptations: and we ought to pitty and pray for one another, and forgive one another, even as God for Chriſts ſake hath
+forgiven you.</p>
+            <p>We hope the fear of God will guide you, ſo that you may do nothing to grieve him, and his little flock, and reioyce the common
+enemy abroad, and at home, nor give them advantages to make a prey upon theſe Nations.</p>
+            <p>What can you propound to your ſelves? if you are for good things, ſo are we; if for a Free State and Common-wealth, ſo are we;
+if againſt a Single perſon ſo are we; if for Reformation, ſo are we; if for godlineſs and the Nations to be exalted in Righteouſneſs,
+ſo are we; Why do we differ in the form and way to it?</p>
+            <p>Oh dear friends, if you ſhould precipitately engage into a war, and ſhould conquer your Brethren, would not the conſequence be
+a conqueſt over your ſelves, and all the good people of the Land? And if they are gone, certainly (if you retain your old principles)
+you will not deſire to live long after them.</p>
+            <p>Precious Brethren, we oommend unto you that place o<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uture, <hi>Joſhua</hi> 1. 14, 15. We ſhall with onr bended knees implore the
+God of Heaven and King of Saints, to guide you and perf<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, as holy <hi>Noah</hi> ſaid in another caſe, <hi>Gen. 9. 7. God ſhall perſwade
+Japheth to dwell in the Tents of Sem.</hi> Finally Brethren <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, be of good comfort, let us be of one mind, live in Peace, and
+the God of Love and Peace ſhall be with you and us, W<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <closer>
+               <signed>Your most affectionate Brethren and fellow-Souldiers,
+<list>
+                     <item>John Lambert</item>
+                     <item>John Disbrow</item>
+                     <item>James Berry</item>
+                     <item>Tho. Kelſey</item>
+                     <item>Hierom Sankey</item>
+                     <item>VVill. Stane</item>
+                     <item>Samuel Clark</item>
+                     <item>John Hewſon</item>
+                     <item>Daniel Axtel</item>
+                     <item>Rich. Aſhfield</item>
+                     <item>John Biſcoe</item>
+                     <item>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>dward Salmon</item>
+                     <item>William Packer</item>
+                     <item>
+                        <gap reason="illegible: blotted" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Allen</item>
+                     <item>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ard Creed</item>
+                     <item>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>bert Hope</item>
+                     <item>Robert Swallow</item>
+                     <item>VVilliam Simmons</item>
+                     <item>VVilliam Gough</item>
+                     <item>Daniel Kingswell</item>
+                     <item>John Duckenfield</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Dear friend we hope to hear in your Anſwer to this, that all our dear Friends now in Bonds, are at Liberty, and that the Lord
+hath ſatisfied your hearts, to Acquieſce in his preſent diſpenſations, ſo as we may not expoſe each other to further inconve<g ref="char:EOLhyphen"/>niency.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
